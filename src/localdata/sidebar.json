@@ -1,0 +1,169 @@
+
+    {
+        "data":[
+            {
+                "id":1,
+                "title":"教师信息",
+                "icon":"el-icon-s-order",
+                "children":[
+                    {
+                        "id":11,
+                        "title":"教师基本情况",
+                        "spellname":"baseinformation",
+                        "roter":"/information/base"
+
+                    },
+                    {
+                        "id":12,
+                        "title":"学历提升情况",
+                        "spellname":"eduinformation",
+                        "roter":"/information/edu"
+
+                    }
+                ]
+            },
+            {
+                "id":2,
+                "title":"教师经历",
+                "icon":"el-icon-s-data",
+                "children":[
+                    {
+                        "id":21,
+                        "title":"教师挂职",
+                        "spellname":"temexperience",
+                        "roter":"/experience/tem"
+
+                    },
+                    {
+                        "id":22,
+                        "title":"教师实践锻炼",
+                        "spellname":"praexercise",
+                        "roter":"/experience/pra"
+
+                    }
+                ]
+            },
+           {
+               "id":3,
+               "title":"教师项目",
+               "icon":"el-icon-s-platform",
+               "children":[
+                {
+                    "id":31,
+                    "title":"教研项目",
+                    "spellname":"reseproject",
+                    "roter":"/project/rese"
+                },
+                {
+                    "id":32,
+                    "title":"本科教学质量工程项目",
+                    "spellname":"bachproject",
+                    "roter":"/project/bach"
+                }
+               ]
+           },
+            
+           {
+               "id":4,
+               "title":"教学成果",
+               "icon":"el-icon-s-opportunity",
+               "children":[
+                {
+                    "id":8,
+                    "title":"教研论文",
+                    "spellname":"resepaper",
+                    "roter":"/teach/paper"
+
+                },
+                {
+                    "id":7,
+                    "title":"教学成果及教学奖励",
+                    "spellname":"teachaward",
+                    "roter":"/teach/award"
+
+                }
+               ]
+           },
+           
+           
+            {
+                "id":5,
+                "title":"课程建设",
+                "icon":"el-icon-s-flag",
+                "children":[
+                    {
+                        "id":8,
+                        "title":"课程建设",
+                        "spellname":"courseconstruct",
+                        "roter":"/course/construct"
+                    }
+                    
+                   ]
+            },
+            {
+                "id":6,
+                "title":"教学活动",
+                "icon":"el-icon-camera-solid",
+                "children":[
+                    {
+                        "id":61,
+                        "title":"大学创新项目",
+                        "spellname":"studinnovation",
+                        "roter":"/activity/innovation"
+                    },
+                    {
+                        "id":63,
+                        "title":"参加教学会议情况",
+                        "spellname":"teachingmeet",
+                        "roter":"/activity/metting"
+                    },
+                    {
+                        "id":62,
+                        "title":"指导本科生发表文章",
+                        "spellname":"guidearticle",
+                        "roter":"/activity/paper"
+                    },
+                   
+                    {
+                        "id":64,
+                        "title":"指导学生大赛获奖情况",
+                        "spellname":"guidereward",
+                        "roter":"/activity/reward"
+                    }
+                ]
+            },
+            {
+                "id":7,
+                "title":"实践基地",
+                "icon":"el-icon-s-check",
+                "children":[
+                    {
+                        "id":8,
+                        "title":"教学实践基地",
+                        "spellname":"practicebase",
+                        "roter":"/base/practice"
+                    }
+                    
+                   ]
+            },
+            {
+                "id":8,
+                "title":"其他管理",
+                "icon":"el-icon-s-tools",
+                "children":[
+                    {
+                        "id":9,
+                        "title":"教材建设与教材获奖",
+                        "spellname":"teacconstruct",
+                        "roter":"/teac/construct"
+                    }
+                    
+                   ]
+            }
+            
+           
+            
+            
+           
+        ]
+    }

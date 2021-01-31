@@ -1,0 +1,40 @@
+{
+    "res":true,
+    "form": [
+          {
+            "teacher_id":"12345",
+            "name": "徐萌",
+            "sex": 0,
+            "record": "研究生",
+            "birthday": "1978.01",
+            "worktime": "2007.08",
+            "dagree": "副教授",
+            "degree": "博士",
+            "jobs": "教学科研型",
+            "degreetime": "2006.12",
+            "unit": "XXX大学",
+            "age": "42",
+            "province": "上海",
+            "city": "普陀区",
+            "address": "上海市普陀区金沙江路 1518 弄"
+            },
+          
+            {
+                "name": "武龙林",
+                "sex": 0,
+                "record": "研究生",
+                "birthday": "1978.01",
+                "worktime": "2007.08",
+                "dagree": "副教授",
+                "degree": "博士",
+                "jobs": "教学科研型",
+                "degreetime": "2006.12",
+                "unit": "XXX大学",
+                "age": "42",
+      
+                "province": "上海",
+                "city": "普陀区",
+                "address": "上海市普陀区金沙江路 1518 弄"
+            }
+    ]
+}
